@@ -8,6 +8,6 @@ function forLoop(arr) {
 function whileLoop(num) {
   let num;
   while (num > 0) {
-   console.log()
+   console.log(--num);
  } 
 }
