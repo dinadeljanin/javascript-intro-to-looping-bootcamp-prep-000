@@ -6,5 +6,5 @@ function forLoop(arr) {
 }
 
 function whileLoop(num) {
-  
+ while () 
 }
