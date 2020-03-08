@@ -5,9 +5,9 @@ function forLoop(arr) {
   return arr;
 }
 
-function whileLoop(num) {
-  let num;
-  while (num > 0) {
-   console.log(--num);
+function whileLoop(n) {
+  let n;
+  while (n > 0) {
+   console.log(--n);
  } 
 }
